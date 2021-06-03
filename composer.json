@@ -1,0 +1,16 @@
+{
+    "name": "kristiyan/junior-mvc",
+    "type": "project",
+    "authors": [
+        {
+            "name": "kjelazkov",
+            "email": "kristiyan.zhelyazkov@flatrocktech.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "./app"
+        }
+    },
+    "require": {}
+}
